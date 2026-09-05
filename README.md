@@ -1,14 +1,14 @@
- --Retail Sales Analysis
+# Retail Sales Analysis
 
- --Project Overview
+## Project Overview
 
 This project analyzes retail sales data using Microsoft Excel and presents the results through an interactive dashboard.
 
- --Dashboard
+## Dashboard
 
-[Retail Sales Dashboard](dashboard.png)
+![Retail Sales Dashboard](dashboard.png)
 
- --Key Analysis
+## Key Analysis
 
 - Total Sales Amount
 - Transaction Count
@@ -21,7 +21,7 @@ This project analyzes retail sales data using Microsoft Excel and presents the r
 - Monthly Performance
 - Price Range Analysis
 
--- Tools Used
+## Tools Used
 
 - Microsoft Excel
 - Pivot Tables
@@ -30,11 +30,11 @@ This project analyzes retail sales data using Microsoft Excel and presents the r
 - Data Visualization
 - Excel Dashboard
 
--- Project Files
+## Project Files
 
 - `Retail_Sales_Analysis.xlsx` — Complete Excel project
 - `dashboard.png` — Dashboard preview
 
--- Objective
+## Objective
 
 The objective of this project is to analyze retail sales data, identify customer and sales patterns, and present meaningful insights through an interactive Excel dashboard.
